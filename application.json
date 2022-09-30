@@ -17,6 +17,9 @@
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "applicationVersion": 1,
   "isManualUpdate": false,
   "deleted": false
